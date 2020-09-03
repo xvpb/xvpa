@@ -101,7 +101,6 @@ IPT runtime configuration file is
 /opt/software/ericsson/ipt/app/ipt-server/config/app.xml
 
 CLI Authentication Configuration
-/opt/software/ericsson/ipt/app/ipt-server/config/auth.xml
 ------------------------------------------------------------------------------
 
 sed -n -e '1,/^exit 0$/!p' ipt-SBM-3.1.bin >ipt-SBM-3.1.tar.gz 2>/dev/null
@@ -109,3 +108,5 @@ head -n 573 ipt-SBM-3.0.bin >install3.0_peter.sh
 
 
 ------------------------------------------------------
+abcd
+1234
