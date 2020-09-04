@@ -1,16 +1,3 @@
-先登录跳转机
-10.169.128.50, root/shroot#23
- 
-再登陆IPT server
-sshpass -p Ericss0n
-
- ssh root@10.168.14.196
- 
-ipt部署在/opt/software/ericsson/ipt/
-ipt web app部署在/ opt/software/ericsson/ipt/app/apache-tomcat-8.0.15
-
-
-http://10.168.14.196:8080/ipt-portal
 
 1 add a line
 2 add tow line
